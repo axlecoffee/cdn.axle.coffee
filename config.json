@@ -1,0 +1,11 @@
+{
+	"uploadPath": "/uploads",
+	"og_site_name": "I have gotten a blahaj",
+	"og_title": "Axle's Coffee",
+	"og_embed_color": "#26ff76",
+	"og_description": "Meow Meow Meow",
+	"webhook_username": "CDN.AXLE.COFFEE",
+	"webhook_avatar": "https://cdn.axle.coffee/raw/9b02e53e.png",
+	"filesLifetime": 0,
+	"routes": ["GET", "POST"]
+}
